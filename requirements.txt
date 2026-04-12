@@ -1,5 +1,6 @@
 pandas==2.2.2
 numpy==2.0.2
+gunicorn
 matplotlib
 scikit-learn==1.6.1
 flask==3.1.3
